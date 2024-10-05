@@ -1,6 +1,15 @@
 ## Willow One Gtk Theme
+!!! This Theme was made primarily for the Cinnamon DE.
 
-Willow One is a flat Design theme for GTK 3, GTK 2 and Gnome-Shell which supports GTK 3 and GTK 2 based desktop environments like Gnome, Unity, Budgie, Cinnamon Pantheon, XFCE, Mate, etc.
+Willow One is a flat Design, Qogir inspired theme for GTK 3, GTK 2 and Gnome-Shell which supports GTK 3 and GTK 2 based desktop environments like Gnome, Unity, Budgie, Cinnamon Pantheon, XFCE, Mate, etc.
+
+At this moment only the dark version of the theme is available, it was tested on Linux Mint Cinnamon 21.3 and, Ubuntu 22.04 running the Cinnamon DE. Please let me know if it does/doesn't work well on other Distros/Desktop Environments.
+
+Install dark version
+
+```sh
+./install.sh -c dark
+```
 
 
 ## Info
